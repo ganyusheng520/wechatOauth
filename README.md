@@ -26,6 +26,8 @@ npm run build
 
   参考公众平台开发文档，以及ngrok内网穿透
 
+## 服务端代码
+  主要在build下的contants.js以及dev-server.js，生产环境不会将该文件打包进去
 
 ## 可能碰到css loader的问题，执行以下命令安装依赖
   npm install node-sass --save-dev<br>
