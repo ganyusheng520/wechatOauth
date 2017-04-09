@@ -28,7 +28,7 @@ npm run build
 
 
 ## 可能碰到css loader的问题，执行以下命令安装依赖
-  npm install node-sass --save-dev
+  npm install node-sass --save-dev<br>
   npm install sass-loader --save-dev
 
 ## build for production and view the bundle analyzer report
