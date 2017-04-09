@@ -1,4 +1,4 @@
-# wechat
+# wechatOauth
 
 > 微信授权node版本demo
 
