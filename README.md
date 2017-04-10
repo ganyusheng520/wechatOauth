@@ -41,10 +41,11 @@ npm run build
 
 可能碰到css loader的问题，执行以下命令安装依赖
 ```
-  npm install node-sass --save-dev<br>
+  npm install node-sass --save-dev
   npm install sass-loader --save-dev
 ```
-build for production and view the bundle analyzer report<br>
+build for production and view the bundle analyzer report
 ```
 npm run build --report
+
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
